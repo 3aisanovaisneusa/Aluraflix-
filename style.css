@@ -2,7 +2,7 @@ body{
     color:white;
     background:black;
     margin: 0px;
-    font-family: Raleway;
+    font-family: 'Raleway', system-ui;
 }
 header{
     border-bottom: solid 2px rgb(42,22,228);
